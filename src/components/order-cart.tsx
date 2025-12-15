@@ -59,7 +59,7 @@ const OrderCart = () => {
                         </div>
                         <div className="flex-grow">
                           <p className="font-semibold">{item.name}</p>
-                          <p className="text-sm text-muted-foreground">₹{item.price.toFixed(2)}</p>
+                          <p className="text-sm text-muted-foreground">Rs.{item.price.toFixed(2)}</p>
                           <div className="flex items-center gap-2 mt-2">
                             <Button variant="outline" size="icon" className="h-7 w-7" onClick={() => updateQuantity(item.id, item.quantity - 1)}>
                               <Minus className="h-4 w-4" />
@@ -82,7 +82,7 @@ const OrderCart = () => {
                 <div className="w-full space-y-4">
                   <div className="flex justify-between font-bold text-lg">
                     <span>Total</span>
-                    <span>₹{totalPrice.toFixed(2)}</span>
+                    <span>Rs.{totalPrice.toFixed(2)}</span>
                   </div>
                   <Button size="lg" className="w-full" onClick={() => setIsConfirming(true)}>Place Order</Button>
                 </div>

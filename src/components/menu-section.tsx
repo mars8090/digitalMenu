@@ -101,7 +101,7 @@ const MenuSection = () => {
                   </div>
                 </CardContent>
                 <CardFooter className="flex justify-between items-center p-6 pt-0">
-                  <p className="text-xl font-bold text-accent">₹{dish.price.toFixed(2)}</p>
+                  <p className="text-xl font-bold text-accent">Rs.{dish.price.toFixed(2)}</p>
                   <Button onClick={() => handleAddToOrder(dish)}>
                     {quantity > 0 ? <Check className="mr-2" /> : <Plus className="mr-2" />}
                     {quantity > 0 ? `${quantity} in cart` : 'Add'}

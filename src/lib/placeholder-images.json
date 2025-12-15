@@ -4,43 +4,49 @@
       "id": "hero-image",
       "description": "An inviting restaurant interior with warm lighting",
       "imageUrl": "https://images.unsplash.com/photo-1538333581680-29dd4752ddf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxyZXN0YXVyYW50JTIwaW50ZXJpb3J8ZW58MHx8fHwxNzY1NzQxMzgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "restaurant interior"
+      "imageHint": "food festival"
     },
     {
       "id": "about-image",
-      "description": "Chefs working in a professional, clean kitchen",
-      "imageUrl": "https://images.unsplash.com/photo-1557955776-857434f1c951?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxyZXN0YXVyYW50JTIwa2l0Y2hlbnxlbnwwfHx8fDE3NjU3MjU3Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "restaurant kitchen"
+      "description": "Students working together on a project",
+      "imageUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdHVkZW50cyUyMHRlYW13b3JrfGVufDB8fHx8MTc2NTgzMjI2MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "students teamwork"
     },
     {
-      "id": "batuk",
-      "description": "A plate of crispy Batuk, a traditional Nepali lentil fritter",
-      "imageUrl": "https://images.unsplash.com/photo-1626108962941-61b46dd705a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxsZW50aWwlMjBmcml0dGVyfGVufDB8fHx8MTc2NTgxMzkyOHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "lentil fritter"
+      "id": "khurma",
+      "description": "A plate of crispy, sweet Khurma pastry.",
+      "imageUrl": "https://images.unsplash.com/photo-1635282544448-19b74a304711?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzd2VldCUyMHBhc3RyeXxlbnwwfHx8fDE3NjU4MTQ5NjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sweet pastry"
     },
     {
-      "id": "veg-momo",
-      "description": "A steamer basket filled with vegetable momos",
-      "imageUrl": "https://images.unsplash.com/photo-1523905330026-b8bd1f5f320e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxkdW1wbGluZ3N8ZW58MHx8fHwxNzY1ODEzOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "dumplings"
+      "id": "bara",
+      "description": "Savory Bara lentil pancakes on a plate.",
+      "imageUrl": "https://images.unsplash.com/photo-1606854429386-9df5ad2119c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsZW50aWwlMjBwYW5jYWtlfGVufDB8fHx8MTc2NTgxNDk2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lentil pancake"
     },
     {
-      "id": "yomari",
-      "description": "Sweet yomari dumplings on a plate",
-      "imageUrl": "https://images.unsplash.com/photo-1761095596630-0fb9536d4a08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzd2VldCUyMGR1bXBsaW5nc3xlbnwwfHx8fDE3NjU4MTM5Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "sweet dumplings"
-    },
-    {
-      "id": "masala-tea",
-      "description": "A cup of hot masala tea",
+      "id": "milk-tea",
+      "description": "A warm cup of milk tea.",
       "imageUrl": "https://images.unsplash.com/photo-1498604636225-6b87a314baa0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx0ZWElMjBjdXB8ZW58MHx8fHwxNzY1ODEzOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "tea cup"
+      "imageHint": "milk tea"
     },
     {
-      "id": "filter-coffee",
-      "description": "A traditional South Indian filter coffee in a steel tumbler",
+      "id": "black-coffee",
+      "description": "A cup of strong black coffee.",
       "imageUrl": "https://images.unsplash.com/photo-1512568400610-62da28bc8a13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjb2ZmZWUlMjBjdXB8ZW58MHx8fHwxNzY1NzcyMjM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "coffee cup"
+      "imageHint": "black coffee"
+    },
+    {
+      "id": "chicken-roast",
+      "description": "Pieces of delicious roasted chicken.",
+      "imageUrl": "https://images.unsplash.com/photo-1727775827746-3c2a8b7885ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxyb2FzdGVkJTIwY2hpY2tlbnxlbnwwfHx8fDE3NjU3NDExMjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "roasted chicken"
+    },
+    {
+      "id": "gajar-halwa",
+      "description": "A serving of Gajar Halwa carrot pudding.",
+      "imageUrl": "https://images.unsplash.com/photo-1516876345887-6dd74f80787a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjYXJyb3QlMjBwdWRkaW5nfGVufDB8fHx8MTc2NTgxNDk2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "carrot pudding"
     }
   ]
 }

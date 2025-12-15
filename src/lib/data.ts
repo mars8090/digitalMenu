@@ -1,4 +1,4 @@
-export type Tag = 'vegetarian' | 'non-vegetarian' | 'sweet' | 'savory';
+export type Tag = 'Vegetarian' | 'Non-Vegetarian' | 'Sweet' | 'Savory' | 'Fried' | 'Gluten-Free' | 'Hot' | 'Beverage';
 
 export interface Dish {
   id: string;
@@ -10,38 +10,45 @@ export interface Dish {
 
 export const menuData: Dish[] = [
   {
-    id: 'batuk',
-    name: 'Batuk (Veg)',
-    description: 'Crispy lentil fritters, a traditional Nepali snack.',
+    id: 'khurma',
+    name: 'Khurma',
+    description: 'Crispy, sweet fried pastry made with flour, milk, and sugar, twisted into delicate shapes and deep-fried to golden perfection.',
+    price: 15,
+    tags: ['Vegetarian', 'Sweet', 'Fried'],
+  },
+  {
+    id: 'bara',
+    name: 'Bara',
+    description: 'Savory lentil pancakes made from ground black lentils, seasoned with herbs and spices, served with traditional accompaniments.',
+    price: 20,
+    tags: ['Vegetarian', 'Savory', 'Gluten-Free'],
+  },
+  {
+    id: 'milk-tea',
+    name: 'Milk Tea',
+    description: 'Premium black tea leaves brewed with fresh milk and a hint of aromatic spices, creating a rich and comforting beverage.',
+    price: 25,
+    tags: ['Vegetarian', 'Hot', 'Beverage'],
+  },
+  {
+    id: 'black-coffee',
+    name: 'Black Coffee',
+    description: 'Single-origin coffee beans, freshly ground and brewed to extract full-bodied flavor with rich aroma and subtle acidity.',
+    price: 30,
+    tags: ['Vegetarian', 'Hot', 'Beverage'],
+  },
+  {
+    id: 'chicken-roast',
+    name: 'Chicken Roast',
+    description: 'Tender chicken marinated in traditional spices, roasted slowly to achieve crispy skin and juicy, flavorful meat.',
     price: 150,
-    tags: ['vegetarian', 'savory'],
+    tags: ['Non-Vegetarian', 'Savory'],
   },
   {
-    id: 'veg-momo',
-    name: 'MOMO (VEG)',
-    description: 'Steamed vegetable dumplings served with a tangy dipping sauce.',
-    price: 200,
-    tags: ['vegetarian', 'savory'],
-  },
-  {
-    id: 'yomari',
-    name: 'Yomari (VEG)',
-    description: 'Steamed rice flour dumplings filled with sweet molasses and sesame seeds.',
-    price: 250,
-    tags: ['vegetarian', 'sweet'],
-  },
-  {
-    id: 'masala-tea',
-    name: 'Masala Tea',
-    description: 'Aromatic and spiced Indian tea with milk.',
-    price: 80,
-    tags: ['vegetarian', 'sweet'],
-  },
-  {
-    id: 'filter-coffee',
-    name: 'Filter Coffee',
-    description: 'Classic South Indian style filter coffee.',
+    id: 'gajar-halwa',
+    name: 'Gajar Halwa',
+    description: 'Slow-cooked carrot pudding made with fresh carrots, milk, ghee, and dried fruits, garnished with nuts and edible silver leaf.',
     price: 120,
-    tags: ['vegetarian', 'sweet'],
+    tags: ['Vegetarian', 'Sweet'],
   },
 ];

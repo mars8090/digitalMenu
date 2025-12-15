@@ -13,52 +13,34 @@
       "imageHint": "restaurant kitchen"
     },
     {
-      "id": "pasta-aglio-e-olio",
-      "description": "A close-up shot of spaghetti aglio e olio in a white bowl",
-      "imageUrl": "https://images.unsplash.com/photo-1608897013039-887f21d8c804?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwYXN0YSUyMGRpc2h8ZW58MHx8fHwxNzY1NzY1NTc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "pasta dish"
+      "id": "batuk",
+      "description": "A plate of crispy Batuk, a traditional Nepali lentil fritter",
+      "imageUrl": "https://images.unsplash.com/photo-1626108962941-61b46dd705a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxsZW50aWwlMjBmcml0dGVyfGVufDB8fHx8MTc2NTgxMzkyOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lentil fritter"
     },
     {
-      "id": "margherita-pizza",
-      "description": "A freshly baked margherita pizza on a wooden board",
-      "imageUrl": "https://images.unsplash.com/photo-1579751626657-72bc17010498?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwaXp6YXxlbnwwfHx8fDE3NjU3NzYxNzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "pizza"
+      "id": "veg-momo",
+      "description": "A steamer basket filled with vegetable momos",
+      "imageUrl": "https://images.unsplash.com/photo-1523905330026-b8bd1f5f320e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxkdW1wbGluZ3N8ZW58MHx8fHwxNzY1ODEzOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dumplings"
     },
     {
-      "id": "grilled-chicken",
-      "description": "A perfectly grilled chicken steak with grill marks, on a plate with vegetables",
-      "imageUrl": "https://images.unsplash.com/photo-1567620832903-9fc6debc209f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxncmlsbGVkJTIwY2hpY2tlbnxlbnwwfHx8fDE3NjU4MDk1NjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "grilled chicken"
+      "id": "yomari",
+      "description": "Sweet yomari dumplings on a plate",
+      "imageUrl": "https://images.unsplash.com/photo-1761095596630-0fb9536d4a08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzd2VldCUyMGR1bXBsaW5nc3xlbnwwfHx8fDE3NjU4MTM5Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sweet dumplings"
     },
     {
-      "id": "chocolate-lava-cake",
-      "description": "A chocolate lava cake with molten chocolate oozing out",
-      "imageUrl": "https://images.unsplash.com/photo-1541783245831-57d6fb0926d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2hvY29sYXRlJTIwY2FrZXxlbnwwfHx8fDE3NjU3NjY0NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "chocolate cake"
+      "id": "masala-tea",
+      "description": "A cup of hot masala tea",
+      "imageUrl": "https://images.unsplash.com/photo-1498604636225-6b87a314baa0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx0ZWElMjBjdXB8ZW58MHx8fHwxNzY1ODEzOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tea cup"
     },
     {
-      "id": "paneer-tikka",
-      "description": "Skewers of paneer tikka being grilled, with a smoky effect",
-      "imageUrl": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwYW5lZXIlMjB0aWtrYXxlbnwwfHx8fDE3NjU4MDI3Njl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "paneer tikka"
-    },
-    {
-      "id": "butter-chicken",
-      "description": "A rich and creamy butter chicken curry in a traditional bowl",
-      "imageUrl": "https://images.unsplash.com/photo-1705174427925-744646e72117?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxidXR0ZXIlMjBjaGlja2VufGVufDB8fHx8MTc2NTgxMzc2MHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "butter chicken"
-    },
-    {
-      "id": "lemon-tart",
-      "description": "A slice of lemon tart on a plate, garnished with mint",
-      "imageUrl": "https://images.unsplash.com/photo-1541781550486-81b7a2328578?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsZW1vbiUyMHRhcnR8ZW58MHx8fHwxNzY1ODEzNzYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "lemon tart"
-    },
-    {
-      "id": "vegetable-biryani",
-      "description": "A colorful vegetable biryani served in a handi (clay pot)",
-      "imageUrl": "https://images.unsplash.com/photo-1684409642850-b48e5ab8e67c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxiaXJ5YW5pJTIwcmljZXxlbnwwfHx8fDE3NjU3ODAwNDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "biryani rice"
+      "id": "filter-coffee",
+      "description": "A traditional South Indian filter coffee in a steel tumbler",
+      "imageUrl": "https://images.unsplash.com/photo-1512568400610-62da28bc8a13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjb2ZmZWUlMjBjdXB8ZW58MHx8fHwxNzY1NzcyMjM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coffee cup"
     }
   ]
 }

@@ -14,37 +14,37 @@
     },
     {
       "id": "khurma",
-      "description": "Crispy, sweet Khurma pastry.",
-      "imageUrl": "https://images.unsplash.com/photo-1676491830967-83d967e05163?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzd2VldCUyMHBhc3RyeXxlbnwwfHx8fDE3NjU4OTkxMTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "description": "मैदा, चिनी, घिउ र दूधबाट बनेको परम्परागत मीठो खुरमा।",
+      "imageUrl": "/assets/khurma.jpg",
       "imageHint": "sweet pastry"
     },
     {
       "id": "bara",
-      "description": "Savory Bara lentil pancakes on a plate.",
+      "description": "कालो दाल, अदुवा, जिरा र नुन मिसाएर बनाइएको नेवारी बारा।",
       "imageUrl": "https://images.unsplash.com/photo-1630441508966-431c08536d1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxsZW50aWwlMjBwYW5jYWtlfGVufDB8fHx8MTc2NTgxNDk2NHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "lentil pancake"
     },
     {
       "id": "milk-tea",
-      "description": "A warm cup of milk tea.",
+      "description": "दूध, चिया पत्ती, चिनी र अलिकति मसला मिसाइएको तातो चिया।",
       "imageUrl": "https://images.unsplash.com/photo-1498604636225-6b87a314baa0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx0ZWElMjBjdXB8ZW58MHx8fHwxNzY1ODEzOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "milk tea"
     },
     {
       "id": "black-coffee",
-      "description": "A cup of strong black coffee.",
+      "description": "कफी बिन्स र तातो पानीबाट बनाइएको स्ट्रङ ब्ल्याक कफी।",
       "imageUrl": "https://images.unsplash.com/photo-1512568400610-62da28bc8a13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjb2ZmZWUlMjBjdXB8ZW58MHx8fHwxNzY1NzcyMjM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "black coffee"
     },
     {
       "id": "chicken-roast",
-      "description": "Pieces of delicious roasted chicken.",
+      "description": "चिकन, नुन, मसला र तेल प्रयोग गरी सेकिएको स्वादिष्ट चिकन रोस्ट।",
       "imageUrl": "https://images.unsplash.com/photo-1727775827746-3c2a8b7885ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxyb2FzdGVkJTIwY2hpY2tlbnxlbnwwfHx8fDE3NjU3NDExMjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "roasted chicken"
     },
     {
       "id": "gajar-halwa",
-      "description": "A serving of Gajar Halwa carrot pudding.",
+      "description": "गाजर, दूध, घिउ, चिनी र सुकामेवा मिसाएर बनाइएको हलुवा।",
       "imageUrl": "https://images.unsplash.com/photo-1516876345887-6dd74f80787a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjYXJyb3QlMjBwdWRkaW5nfGVufDB8fHx8MTc2NTgxNDk2NHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "carrot pudding"
     }

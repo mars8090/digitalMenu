@@ -14,14 +14,14 @@
     },
     {
       "id": "khurma",
-      "description": "A plate of crispy, sweet Khurma pastry.",
-      "imageUrl": "https://storage.googleapis.com/aif-stg-build-service-workspace/clv8z6u0n000318og9g9rfz7n/khurma.jpg",
+      "description": "Crispy, sweet Khurma pastry.",
+      "imageUrl": "https://images.unsplash.com/photo-1676491830967-83d967e05163?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzd2VldCUyMHBhc3RyeXxlbnwwfHx8fDE3NjU4OTkxMTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "sweet pastry"
     },
     {
       "id": "bara",
       "description": "Savory Bara lentil pancakes on a plate.",
-      "imageUrl": "https://images.unsplash.com/photo-1606854429386-9df5ad2119c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsZW50aWwlMjBwYW5jYWtlfGVufDB8fHx8MTc2NTgxNDk2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1630441508966-431c08536d1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxsZW50aWwlMjBwYW5jYWtlfGVufDB8fHx8MTc2NTgxNDk2NHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "lentil pancake"
     },
     {

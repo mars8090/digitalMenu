@@ -7,9 +7,9 @@ const AboutSection = () => {
     <section id="about" className="py-16 md:py-24 bg-card">
       <div className="container mx-auto px-4 grid md:grid-cols-2 gap-12 items-center">
         <div className="order-2 md:order-1">
-          <h2 className="text-3xl font-bold font-headline text-accent">About 10Engineering</h2>
+          <h2 className="text-3xl font-bold font-headline text-accent">About आहा! १० स्टार खाजा घर</h2>
           <p className="mt-4 text-lg text-foreground/80">
-            Welcome to 10 Engineering Food Stall 🌸🍽️
+            Welcome to आहा! १० स्टार खाजा घर Food Stall 🌸🍽️
           </p>
           <p className="mt-4 text-foreground/80">
             Warm greetings from the Class 10 Engineering students of Shree Ratna Rajya Laxmi Secondary School. On the joyful occasion of our Annual Anniversary, we proudly present our Digital Food Menu.

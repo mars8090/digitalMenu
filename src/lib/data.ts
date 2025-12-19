@@ -11,9 +11,9 @@ export interface Dish {
 export const menuData: Dish[] = [
   {
     id: 'khurma',
-    name: 'Khurma',
+    name: 'Khurma (2 pcs)',
     description: 'मैदा, दूध, चिनी र घिउ प्रयोग गरी बनाइएको परम्परागत कुरकुरे मीठो खुरमा।',
-    price: 15,
+    price: 30,
     tags: ['Vegetarian', 'Sweet', 'Fried'],
   },
   {
@@ -27,7 +27,7 @@ export const menuData: Dish[] = [
     id: 'milk-tea',
     name: 'Milk Tea',
     description: 'दूध, चिया पत्ती, चिनी र हल्का मसला मिसाइएको तातो दूध चिया।',
-    price: 25,
+    price: 20,
     tags: ['Vegetarian', 'Hot', 'Beverage'],
   },
   {
@@ -48,7 +48,7 @@ export const menuData: Dish[] = [
     id: 'gajar-halwa',
     name: 'Gajar Halwa',
     description: 'गाजर, दूध, घिउ, चिनी र सुकामेवा मिसाएर पकाइएको मीठो हलुवा।',
-    price: 120,
+    price: 50,
     tags: ['Vegetarian', 'Sweet'],
   },
 ];

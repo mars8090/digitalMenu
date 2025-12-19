@@ -26,6 +26,25 @@ const MenuSection = () => {
     return orderItems.find(item => item.id === dishId)?.quantity || 0;
   }
 
+  const getPriceText = (dish: (typeof menuData)[0]) => {
+    switch (dish.id) {
+      case 'khurma':
+        return 'per piece';
+      case 'bara':
+        return 'per piece';
+      case 'milk-tea':
+        return 'per cup';
+      case 'black-coffee':
+        return 'per cup';
+      case 'chicken-roast':
+        return 'per 3 pieces';
+      case 'gajar-halwa':
+        return 'per serving';
+      default:
+        return 'per serving';
+    }
+  };
+
   return (
     <section className="py-16 md:py-24 bg-background">
       <div className="container mx-auto px-4">
@@ -35,7 +54,7 @@ const MenuSection = () => {
           {menuData.map(dish => {
             const imageData = PlaceHolderImages.find(img => img.id === dish.id);
             const quantity = getItemQuantity(dish.id);
-            const priceText = dish.price === 15 || dish.price === 20 ? 'per piece' : (dish.price === 25 || dish.price === 30 ? 'per cup' : (dish.price === 150 ? 'per 6 pieces' : 'per serving'));
+            const priceText = getPriceText(dish);
 
             return (
               <Card key={dish.id} className="flex flex-col overflow-hidden shadow-lg hover:shadow-2xl transition-shadow duration-300 transform hover:-translate-y-1">
